@@ -4,6 +4,6 @@
     "algorithm": "yespower",
     "peerMagic": "52455321",
     "peerMagicTestnet": "53455221",
-    "blockTime": 60,
+    "blockTime": 2,
     "txfee": 0.0001
 }
