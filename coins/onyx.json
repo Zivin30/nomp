@@ -1,6 +1,6 @@
 {
-    "name": "Resistance",
-    "symbol": "RES",
+    "name": "Onyx",
+    "symbol": "ONX",
     "algorithm": "yespower",
     "peerMagic": "52455321",
     "peerMagicTestnet": "53455221",
