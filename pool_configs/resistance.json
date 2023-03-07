@@ -1,11 +1,11 @@
 {
     "enabled": true,
-    "coin": "resistance.json",
+    "coin": "onyx.json",
 
-    "address": "r17nRi1jsMUPYqTMzrMThatXAth1hgFx9UZ",
+    "address": "oXLYe9Jb1z1ujRi49GbJkwCJzjo8GnP6FT",
 
     "rewardRecipients": {
-        "r17nRi1jsMUPYqTMzrMThatXAth1hgFx9UZ": 1.0
+        "oXLYe9Jb1z1ujRi49GbJkwCJzjo8GnP6FT": 1.0
     },
 
     "paymentProcessing": {
@@ -13,9 +13,9 @@
         "enabled": true,
         "paymentMode": "prop",
         "_comment_paymentMode":"prop, pplnt",
-        "paymentInterval": 120,
-        "minimumPayment": 0.1,
-        "maxBlocksPerPayment": 3,
+        "paymentInterval": 12000,
+        "minimumPayment": 10000,
+        "maxBlocksPerPayment": 30000,
         "daemon": {
             "host": "127.0.0.1",
             "port": 8132,
